@@ -15,3 +15,4 @@
 ### This is is the capturing of the nature and the beautiful outdoor scenery.
 ## (c)Portrait Landscape
 ### A type of photography that captures a person's mood and personality using effective lighting, flattering backdrops and natural posing
+## Editing and Retouching
