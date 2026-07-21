@@ -12,3 +12,4 @@
 ## (a)Event Photography 
 ### This kind is used in events and social gatherings to capture high-quality pictures, whether it be a public or a private one.
 ## (b) Landscape Photography
+### This is is the capturing of the nature and the beautiful outdoor scenery.
