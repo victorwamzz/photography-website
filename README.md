@@ -17,3 +17,4 @@
 ### A type of photography that captures a person's mood and personality using effective lighting, flattering backdrops and natural posing
 ## (d) Editing and Retouching
 ### (i) Editing
+### This is the handling of global adjustments like exposure, white balance, cropping and color grading
