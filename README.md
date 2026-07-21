@@ -10,3 +10,4 @@
 ### (d) Editing and Retouching
 
 ## (a)Event Photography 
+### This kind is used in events and social gatherings to capture high-quality pictures
