@@ -4,4 +4,4 @@
 ## Site Description
 ### The site explains carefully and briefly about how beautiful it is to have pictures as it not only safeguards memories, but it also makes the atmosphere around appear natural and refreshing.
 ## Table Of Contents
-### Event Editing
+### Event Photography
