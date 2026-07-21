@@ -19,3 +19,4 @@
 ### (i) Editing
 ### This is the handling of global adjustments like exposure, white balance, cropping and color grading
 ### (ii) Retouching
+### In addition to editing, retouching goes even further with localizesd, detailed enhancements like removing blemishes, smothening skin an whitening teeth
