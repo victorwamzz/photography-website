@@ -13,5 +13,5 @@
 ### This kind is used in events and social gatherings to capture high-quality pictures, whether it be a public or a private one.
 ## (b) Landscape Photography
 ### This is is the capturing of the nature and the beautiful outdoor scenery.
-## Portrait Landscape
+## (c)Portrait Landscape
 ### A type of photography that captures a person's mood and personality using effective lighting, flattering backdrops and natural posing
