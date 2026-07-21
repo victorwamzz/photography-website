@@ -6,3 +6,4 @@
 ## Table Of Contents
 ### (a) Event Photography
 ### (b) Landscape Photography
+### (c) Portrait Photography
