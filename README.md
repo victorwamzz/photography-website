@@ -18,3 +18,4 @@
 ## (d) Editing and Retouching
 ### (i) Editing
 ### This is the handling of global adjustments like exposure, white balance, cropping and color grading
+### (ii) Retouching
