@@ -3,3 +3,4 @@
 ### This is a website intended to purely showcase the beauty of art and how important it is to safeguard memories.Memories are meant to be held on as they have and do portray untold feelings and emotions to whoever treasures it.
 ## Site Description
 ### The site explains carefully and briefly about how beautiful it is to have pictures as it not only safeguards memories, but it also makes the atmosphere around appear natural and refreshing.
+## Table Of Contents
